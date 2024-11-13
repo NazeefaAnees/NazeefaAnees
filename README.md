@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast passionate about building cut
 - **Programming Languages**: Python, JavaScript, SQL
 - **Frameworks & Libraries**: TensorFlow, PyTorch, LangChain, Flask, Dash
 - **Databases**: Firebase, MongoDB, ChromaDB, MySQL
-- **Tools**: Docker, Git, Google Cloud, AWS
+- **Tools**: Docker, Git, Google Cloud, AWS 
 - **Version Control**: Git, GitHub
 - **API**: OpenAI Api, Gemini API
 
