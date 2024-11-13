@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm an AI enthusiast passionate about building cut
 
 ## 📊 GitHub Stats:
 
-![Nazeefa's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Nazeefa-Anees&theme=dark&hide_border=false)<br/><br/>
-![Nazeefa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazeefa-Anees&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Nazeefa's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=NazeefaAnees&theme=dark&hide_border=false)<br/><br/>
+![Nazeefa's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazeefaAnees&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
